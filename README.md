@@ -117,3 +117,13 @@ The four plots that you will need to construct are shown below.
 The R file that constructs this plot is in *_plot1.R_*
 The file generated is: _plot1.png_
 ![Histogram of Global Active Power](./plot1.png)
+
+##Plot2
+The R file that constructs this plot is in *_plot2.R_*
+The file generated is: _plot2.png_
+![Global Active Power vs. Date and Time](./plot2.png)
+
+##Plot3
+The R file that constructs this plot is in *_plot3.R_*
+The file generated is: _plot3.png_
+![Energy sub metering vs. Date and Time](./plot2.png)
