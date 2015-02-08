@@ -126,4 +126,9 @@ The file generated is: _plot2.png_
 ##Plot3
 The R file that constructs this plot is in *_plot3.R_*
 The file generated is: _plot3.png_
-![Energy sub metering vs. Date and Time](./plot2.png)
+![Energy sub metering vs. Date and Time](./plot3.png)
+
+##Plot4
+The R file that constructs this plot is in *_plot4.R_*
+The file generated is: _plot4.png_
+![Multiple plots in the same plot](./plot4.png)
