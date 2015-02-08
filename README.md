@@ -112,3 +112,8 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+#Project solutions:
+##Plot1
+The R file that constructs this plot is in *_plot1.R_*
+The file generated is: _plot1.png_
+![Histogram of Global Active Power](./plot1.png)
